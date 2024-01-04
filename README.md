@@ -13,6 +13,8 @@ I enjoy collaborating with cross-functional teams to deliver high-quality soluti
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)
 # 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGlebw&layout=compact&theme=github_dark&hide_title=true)
 # Get in touch
