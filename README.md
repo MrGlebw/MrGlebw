@@ -1,5 +1,5 @@
 ## MrGlebw
-
+![Cat](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 Hi! I am Gleb - a  backend developer from Ukraine specializing in building reliable and scalable applications with expertise in Java, Spring MVC, Spring Data, Spring Security and Spring Boot.  My areas of expertise include API development, database design and optimization, and server-side programming. 
 
 I enjoy collaborating with cross-functional teams to deliver high-quality solutions. My focus is on writing clean and maintainable code, following industry best practices and design patterns. My goal is to create efficient and maintainable code, ensuring smooth backend operations. Let's collaborate and create robust solutions!
