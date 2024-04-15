@@ -33,4 +33,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail)](https://mailhide.io/e/5xHsS6h7)
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/MrGlebw/MrGlebw/blob/output/github-contribution-grid-snake2.svg)
