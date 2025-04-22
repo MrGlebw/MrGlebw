@@ -2,7 +2,7 @@
   <div style="flex: 1;">
     <h1>MrGlebw</h1>
     <p>
-      Hi! I am Gleb - a backend developer from Ukraine specializing in building reliable and scalable applications with expertise in Java, Spring MVC, Spring Data, Spring Security, and Spring Boot. My areas of expertise include API development, database design and optimization, and server-side programming.
+      Hi! I am Gleb - a backend developer from Ukraine specializing in building reliable and scalable applications with expertise in Python, Java, FastAPI, Django and Spring Boot. My areas of expertise include API development, database design and optimization, and server-side programming.
       <br><br>
       I enjoy collaborating with cross-functional teams to deliver high-quality solutions. My focus is on writing clean and maintainable code, following industry best practices and design patterns. My goal is to create efficient and maintainable code, ensuring smooth backend operations. Let's collaborate and create robust solutions!
     </p>
