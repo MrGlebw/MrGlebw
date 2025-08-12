@@ -15,15 +15,11 @@
 
 
 # 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=Java)
 ![Spring-Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=Spring-Boot)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=Postgresql)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazon)
-![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)
 # 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGlebw&layout=compact&theme=github_dark&hide_title=true)
